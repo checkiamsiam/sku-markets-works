@@ -1,0 +1,37 @@
+
+:root {
+    --swiper-navigation-size: 20px !important;
+}
+
+
+.swiper-button-next{
+    border: 2px solid #1562ff !important;
+    border-radius: 20px !important;
+    padding: 14px !important;
+    background-color: white !important;
+    color: #1562ff !important;
+    transition: ease-in-out 0.3s;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px !important;
+}
+
+.swiper-button-next:hover{
+    background-color: #1562ff !important;
+    color: white !important;
+    transition: ease-in-out 0.3s !important;
+}
+
+.swiper-button-prev{
+    border: 2px solid #1562ff !important;
+    border-radius: 20px !important;
+    padding: 14px !important;
+    background-color: white !important;
+    color: #1562ff !important;
+    transition: ease-in-out 0.3s;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px !important;
+}
+
+.swiper-button-prev:hover{
+    background-color: #1562ff !important;
+    color: white !important;
+    transition: ease-in-out 0.3s !important;
+}

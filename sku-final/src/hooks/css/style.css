@@ -1,0 +1,235 @@
+.component-mini-header-style {
+    background-image: linear-gradient(180deg, #94DDFF 0%, rgba(222, 245, 255, 0.2) 100%);
+    ;
+}
+
+.css-14eddej-MuiTableCell-root {
+    font-weight: 700 !important;
+
+    border-bottom: none !important;
+}
+
+.css-95dhub-MuiTableCell-root {
+    font-weight: 700 !important;
+
+    border-bottom: none !important;
+}
+
+.css-j09ox3-MuiTableCell-root {
+    font-weight: 700 !important;
+
+    border-bottom: none !important;
+}
+
+.css-1ex1afd-MuiTableCell-root {
+    font-weight: 700 !important;
+
+    border-bottom: none !important;
+}
+
+.css-1vk6o2f-MuiTableCell-root {
+    font-weight: 700 !important;
+
+    border-bottom: none !important;
+}
+
+.css-1yhpg23-MuiTableCell-root {
+    font-weight: 700 !important;
+
+    border-bottom: none !important;
+}
+
+.css-csxod2-MuiTableCell-root {
+    font-weight: 700 !important;
+
+    border-bottom: none !important;
+}
+
+.css-1uxl0ts-MuiTableCell-root {
+    font-weight: 700 !important;
+
+    border-bottom: none !important;
+}
+
+.css-1enotpu-MuiTableRow-root {
+    background-color: white !important;
+    border: none !important;
+    -webkit-transition: all 0.3s ease-out !important;
+    -moz-transition: all 0.3s ease-out !important;
+    -ms-transition: all 0.3s ease-out !important;
+    -o-transition: all 0.3s ease-out !important;
+    transition: all 0.3s ease-out !important;
+    box-shadow: inset 0px 8px 19px -6px rgb(191 191 191 / 30%) !important;
+}
+
+.css-1enotpu-MuiTableRow-root:hover {
+    background-color: #f5f5f5 !important;
+    -webkit-transition: all 0.3s ease-out !important;
+    -moz-transition: all 0.3s ease-out !important;
+    -ms-transition: all 0.3s ease-out !important;
+    -o-transition: all 0.3s ease-out !important;
+    transition: all 0.3s ease-out !important;
+}
+
+.css-11xur9t-MuiPaper-root-MuiTableContainer-root {
+    -webkit-transition: all 0.3s ease-out !important;
+    -moz-transition: all 0.3s ease-out !important;
+    -ms-transition: all 0.3s ease-out !important;
+    -o-transition: all 0.3s ease-out !important;
+    transition: all 0.3s ease-out !important;
+    box-shadow: inset 0px 8px 19px -6px rgb(191 191 191 / 30%) !important;
+}
+
+.MuiTableRow-head {
+    background-color: #badaff !important;
+    color: #000000 !important;
+}
+
+.MuiTableCell-head {
+    background-color: #badaff !important;
+    color: #000000 !important;
+}
+
+.status-style {
+    background-color: #FF040433;
+    color: #D30D0D;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    padding: 2px 7px 2px 7px;
+    font-size: 12px;
+}
+
+.status-active {
+    color: #22ff00;
+    background-color: #27FF0433;
+    padding: 2px;
+    width: 90%;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2px 7px 2px 7px;
+    font-size: 12px;
+    border: none;
+}
+
+.status-paid {
+    background-color: rgb(47, 196, 255);
+    color: white;
+    padding: 2px;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+
+.btn-style .tooltiptext {
+    visibility: hidden;
+    width: 70px;
+    background-color: white;
+    color: #1f6081;
+    text-align: center;
+    border-radius: 4px;
+    padding: 5px 0;
+    font-size: 12px;
+    font-weight: 600;
+
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+    top: 0px;
+    left: -17px;
+    transition: ease-in 0.2s;
+}
+
+.btn-style:hover {
+    color: white;
+    background-color: #badaff;
+    transition: ease-in 0.4s;
+}
+
+.btn-style:hover .tooltiptext {
+    visibility: visible;
+    top: -30px;
+    transition: ease-in 0.2s;
+}
+
+
+.btn-style {
+    display: flex;
+    color: #1f6a8f;
+    background-color: rgb(233, 230, 230);
+    border: none;
+    transition: ease-in 0.4s;
+    font-size: 20px;
+    width: 50px;
+    height: 34px;
+    border-radius: 5px;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-style .tooltiptext {
+    visibility: hidden;
+    width: 70px;
+    background-color: white;
+    color: #1f6081;
+    text-align: center;
+    border-radius: 4px;
+    padding: 5px 0;
+    font-size: 12px;
+    font-weight: 600;
+
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+    top: 0px;
+    left: -17px;
+    transition: ease-in 0.2s;
+}
+
+.btn-style:hover {
+    color: white;
+    background-color: #badaff;
+    transition: ease-in 0.4s;
+}
+
+.btn-style:hover .tooltiptext {
+    visibility: visible;
+    top: -30px;
+    transition: ease-in 0.2s;
+}
+
+.btn-order-style {
+    border: none;
+    color: white;
+    font-weight: 600;
+    width: 150px;
+    height: 40px;
+    background-color: #1A77F8;
+    border-radius: 5px;
+    transition: ease-in-out 0.2s;
+
+}
+
+.btn-order-style:hover {
+    background-color: #1a77f8c6;
+    transition: ease-in-out 0.2s;
+}
+
+.client-title-style {
+    font-weight: 600;
+}
+
+.cilent-Ti-inside-style {
+    font-weight: 500;
+    color: #ABABAB;
+}
+.create-client-border {
+    border: 1px solid rgb(194, 194, 194);
+    padding: 30px 0px 30px 0px;
+    border-radius: 5px;
+
+}

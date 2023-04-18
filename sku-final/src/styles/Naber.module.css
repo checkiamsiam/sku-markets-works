@@ -1,0 +1,351 @@
+.navTop {
+	display: flex;
+}
+
+.navTopTextStyle {
+	display: flex;
+	justify-content: space-between;
+	margin-left: 15px !important;
+	margin-right: 15px !important;
+}
+
+.navTaxtWeight {
+	font-weight: 700;
+	line-height: 6px;
+	margin-top: 6px;
+	font-size: 12px;
+}
+
+.navTaxtPrice {
+	line-height: 6px;
+	font-size: 12px;
+	margin-top: 6px;
+}
+
+.navBrandLogo {
+	height: 60px;
+	width: 210px;
+}
+
+.navMainStyle {
+	display: flex;
+	justify-content: space-between;
+}
+
+.navMainCointant {
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+}
+
+.navManuLink {
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+.navManuLink a {
+	text-decoration: none;
+	color: #6c757d;
+	cursor: pointer;
+}
+
+.navManuLink a:hover {
+	color: #0d6efd;
+}
+
+.navButton {
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+}
+
+.navArbButton {
+	background-color: transparent;
+	border: none;
+	font-size: 18px;
+	/* font-weight: 600; */
+	cursor: pointer;
+	padding: 15px;
+	transition: ease-in-out 0.7s;
+}
+
+.navArbButton:hover {
+	border-radius: 50px;
+	color: #0d6efd;
+}
+
+.navSign {
+	background: #1562ff;
+	border-radius: 10px;
+	color: #fff;
+	border: none;
+	padding: 0px 12px 0px 12px ;
+	transition: ease-in-out 0.7s;
+	/* font-size: 13px; */
+	font-weight: 600;
+	border: 1px solid #0d6efd;
+	cursor: pointer;
+}
+
+.navSign:hover {
+	box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 4px 0px inset;
+	transition: ease-in-out 0.7s;
+	background: transparent;
+	color: #0d6efd;
+}
+
+.toggleButton {
+	display: none;
+}
+
+/* responsiveness css */
+
+@media (max-width: 575.98px) {
+	.navManuMobileLink a {
+		text-decoration: none;
+		color: rgb(72, 72, 72);
+	}
+	.navManuMobileLink a:hover {
+		text-decoration: none;
+		color: #0d6efd;
+	}
+	.navManuMobileLink {
+		padding: 15px;
+	}
+
+	.navMainMobileCointant {
+	}
+
+	.navBrandLogo {
+		height: 60px;
+		width: 130px;
+	}
+
+	.navSign {
+		border-radius: 0px;
+		padding: 8px;
+		border-radius: 5px;
+		width: 70px;
+	}
+
+	.navButton {
+		display: flex;
+	}
+
+	.navTop {
+		display: none;
+	}
+	.navMainCointant {
+		display: none;
+	}
+
+	.toggleButton {
+		display: none;
+	}
+
+	.navThreeButton {
+		font-size: 26px;
+	}
+
+	.toggleButton {
+		display: flex;
+		align-items: center;
+	}
+
+	.navLogoResponsive {
+		max-width: 100%;
+		display: flex;
+		justify-content: left;
+		border-bottom: 2px solid gainsboro;
+	}
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+	.navManuMobileLink a {
+		text-decoration: none;
+		color: rgb(72, 72, 72);
+	}
+	.navManuMobileLink a:hover {
+		text-decoration: none;
+		color: #0d6efd;
+	}
+	.navManuMobileLink {
+		padding: 15px;
+	}
+
+	.navMainMobileCointant {
+	}
+
+	.navBrandLogo {
+		height: 60px;
+		width: 130px;
+	}
+
+	.navSign {
+		border-radius: 0px;
+		padding: 8px;
+		border-radius: 5px;
+		width: 70px;
+	}
+
+	.navButton {
+		display: flex;
+	}
+
+	.navTop {
+		display: none;
+	}
+	.navMainCointant {
+		display: none;
+	}
+
+	.toggleButton {
+		display: none;
+	}
+
+	.navThreeButton {
+		font-size: 26px;
+	}
+
+	.toggleButton {
+		display: flex;
+		align-items: center;
+	}
+
+	.navLogoResponsive {
+		max-width: 100%;
+		display: flex;
+		justify-content: left;
+		border-bottom: 2px solid gainsboro;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+	.navManuMobileLink a {
+		text-decoration: none;
+		color: rgb(72, 72, 72);
+	}
+	.navManuMobileLink a:hover {
+		text-decoration: none;
+		color: #0d6efd;
+	}
+	.navManuMobileLink {
+		padding: 15px;
+	}
+
+	.navMainMobileCointant {
+	}
+
+	.navBrandLogo {
+		height: 60px;
+		width: 130px;
+	}
+
+	.navSign {
+		border-radius: 0px;
+		padding: 8px;
+		border-radius: 5px;
+		width: 70px;
+	}
+
+	.navButton {
+		display: flex;
+	}
+
+	.navTop {
+		display: none;
+	}
+	.navMainCointant {
+		display: none;
+	}
+
+	.toggleButton {
+		display: none;
+	}
+
+	.navThreeButton {
+		font-size: 26px;
+	}
+
+	.toggleButton {
+		display: flex;
+		align-items: center;
+	}
+
+	.navLogoResponsive {
+		max-width: 100%;
+		display: flex;
+		justify-content: left;
+		border-bottom: 2px solid gainsboro;
+	}
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	.navManuMobileLink a {
+		text-decoration: none;
+		color: rgb(72, 72, 72);
+	}
+	.navManuMobileLink a:hover {
+		text-decoration: none;
+		color: #0d6efd;
+	}
+	.navManuMobileLink {
+		padding: 15px;
+	}
+
+	.navMainMobileCointant {
+	}
+
+	.navBrandLogo {
+		height: 60px;
+		width: 130px;
+	}
+
+	.navSign {
+		border-radius: 0px;
+		padding: 8px;
+		border-radius: 5px;
+		width: 70px;
+	}
+
+	.navButton {
+		display: flex;
+	}
+
+	.navTop {
+		display: none;
+	}
+	.navMainCointant {
+		display: none;
+	}
+
+	.toggleButton {
+		display: none;
+	}
+
+	.navThreeButton {
+		font-size: 26px;
+	}
+
+	.toggleButton {
+		display: flex;
+		align-items: center;
+	}
+
+	.navLogoResponsive {
+		max-width: 100%;
+		display: flex;
+		justify-content: left;
+		border-bottom: 2px solid gainsboro;
+	}
+}
+
+.footerBtn a {
+	text-decoration: none;
+	margin: 5px;
+	color: gray;
+}
+
+.footerBtn a:hover {
+	color: #0d6efd;
+}

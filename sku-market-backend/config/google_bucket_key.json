@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bright-lattice-375320",
+  "private_key_id": "e1d67dbfb6cbb91b8d528b6def4438e538f0a8d4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDBnOjViUq8sAmP\nNhOEpl5DsvNZ+Pn46oMzRP0o/mk7xdXY9vpD18Y0ZwV2AlV5uPqlgCOHJWk69rbp\nrdCXNoHab0fNC8iUGwnmrOzwmRi/7jYa30ca4J27n61lrA8GkbazJ/JOlsataFrl\nYZSCmvf1Z9SmtRCxgmNhswFaRgPSHEpsQSFsjtx9z3GZ3a+M7tRNinMj4AxvM0XX\noTO3IBSCo5elJmHWwpmPJiltecSuFIcrPu6M0JEY3emvEffgkuzqkUNPleUcQFoY\npZ9wsHfQo3LK3jznmUZTEd79gtGz+5LTJrShvGMqiHgLJqgC85sIG6/aAzRp1PCy\nw+2Xgq1hAgMBAAECggEANR4TUuJDutihBsVTPYVXP0ONOBXynrPYIuy+d8y0mk2A\nifHYX1yHaEELYoDpamexfE5XcPB2mlKthBbHr3So04DMNhkRgnCYmsy+hJO8EowM\nE/tFyr3tCFiafdZimO7JLQW8mIsNHu4OYfgPgnV5qb4+vS3X0ptvIJK3wEiNK8tU\nUfd6VSEH61g8brhle+ahNOXJlmoHnuIJCvpyfh39jBEz+QXjxH6vtB2E4KrXB1S5\nNTVIi8P4xFOlHC6hRl7jni/wkvf7J6Qc9nq+qhTe0VWObcDR/sfTIhKRGMEKkZ9U\nkdYMEj0Yi5U/i2fctOk3gQydh7pPSZTe7ktnUx5QsQKBgQD350ZNwPdq0IllgpTR\nOEnTpdgaCNy6hsjcaq6WXnvYciUIAY8lADLr50slXVDADFRz4v38HhhHuMUuTPYh\npHXxDYtyiGDmrrIuYXdP1QnUlOwfUh8ExE1QWV41+iJFuMFa69vzUt51RP3ESKHS\ndfv6FaBgK1RLVnJLuoP2q00FcwKBgQDH77YGPDPDSLGiD5WUhDKvDKFXR7nSm1X3\nkFKASujAu9MFRUBf1GtId/+QpZtTTw8smTRHVU/UKd9NwLXCAKcfGffEF+Z7yPlY\nnShtuVRiyfow9+6M1NkBDdayl0Bg4zk4DseRLe6Tnie7Uz4nqigIOeXjlQ6ap3Vu\na+LwR8Ps2wKBgAvpW/JufDTwsjljbd0jtEBsLpcJp/l6cnpM0fi9r3u1+FuLH6Kq\ngMffBDhWZIPl08UBuix8EbSYhzjzT7xMF7KucO3e6bEL4dniqwX1+ZPyV+olWwIy\noHhk4ub7DtyExR2mSZpGeBPwbbUZvFTNgH8CvQMB8fnwvGsxGhgnIPtLAoGAHSAb\naR8d/0W4sr4IcUEszPlPC5LkS/za8hxxGEVRULpLzEnBTfR4yG7KqPym+uTadgm/\nZuDTpzmOURpQn/lOXyZ+RG+i4MdvI2yJdip4U4fOzZFgi91520Bz1UJZW4PeUv88\nLTb+uTxh11USCd8sw74DcjrFjNv2LGbFAXHC5d8CgYEA2mesnhVRztfbFztmQ3ig\ntJmMFPndNrFEYGI5cxGkb0CNvJ5ud93Fckn9GE9HyU96HwCX6VSDbgyTGiK+0lYB\n9TWPoZUgsQJjs9FSlHZLDSMdutayIXrGnT9JB97IYg8qcuB+ys09tv5MSbnUP5ug\n8vPdCIPL2nbLabtLKggnNaU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sku-markets@bright-lattice-375320.iam.gserviceaccount.com",
+  "client_id": "101398375606175099111",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sku-markets%40bright-lattice-375320.iam.gserviceaccount.com"
+}

@@ -1,0 +1,28 @@
+
+.marqueeStyle{
+    display: flex;
+}
+
+.marqueeContentStyle{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    border: 1px solid rgb(161, 161, 161);
+    border-top: none;
+    border-bottom: none
+}
+
+.marqueeImgStyle{
+    display: flex;
+}
+
+.marqueeContainer{
+    border: 1px solid rgb(225, 215, 215);
+    border-left: none;
+    border-right: none;
+}
+.marqueeStyle p{
+    font-size: 12px;
+    line-height: 0px;
+}

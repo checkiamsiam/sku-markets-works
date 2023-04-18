@@ -1,0 +1,17 @@
+.payment_btn_Style {
+  background-color: rgb(174, 174, 174);
+  color: white;
+  border: none;
+  width: 150px;
+  padding: 10px 0px 10px;
+  border-radius: 20px;
+  font-size: 11px;
+  transition: ease-in-out 0.7s;
+}
+.payment_btn_Style:hover {
+  background-color: #0d6efd;
+  transition: ease-in-out 0.7s;
+}
+.card_inner {
+  display: flex;
+}

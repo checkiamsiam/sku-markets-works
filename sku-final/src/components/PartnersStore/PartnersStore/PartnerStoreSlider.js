@@ -1,0 +1,62 @@
+import { Navigation } from 'swiper';
+import 'swiper/css';
+import 'swiper/css/navigation';
+import 'swiper/css/pagination';
+import { Swiper, SwiperSlide } from 'swiper/react';
+import '../../../components/SkuMarket/SkuMarketStyle.css';
+import UserCard from './UserCard';
+
+const lightGray = '#0d6efd';
+
+const PartnerStoreSlider = ({ userDummy, topSkuCard, ctgry }) => {
+  return (
+    <>
+      {userDummy?.length !== 0 && (
+        <>
+          <Swiper
+            slidesPerView={1}
+            spaceBetween={10}
+            navigation={true}
+            modules={[Navigation]}
+            style={{ marginTop: '10px' }}
+            breakpoints={{
+              '@0.00': {
+                slidesPerView: 2,
+                spaceBetween: 5,
+              },
+              '@0.75': {
+                slidesPerView: 2,
+                spaceBetween: 10,
+              },
+              '@1.00': {
+                slidesPerView: 3,
+                spaceBetween: 15,
+              },
+              '@1.50': {
+                slidesPerView: `${ctgry ? 5 : 4}`,
+                spaceBetween: 20,
+              },
+              '@1.75': {
+                slidesPerView: `${ctgry ? 5 : 4}`,
+                spaceBetween: 20,
+              },
+              '@2.00': {
+                slidesPerView: `${ctgry ? 5 : 4}`,
+                spaceBetween: 20,
+              },
+            }}
+            className="mySwiper"
+          >
+            {userDummy?.map(({ user, i }) => (
+              <SwiperSlide key={i} item lg={2} xs={12}>
+                <UserCard user={user} topSkuCard={topSkuCard} ctgry={ctgry} />
+              </SwiperSlide>
+            ))}
+          </Swiper>
+        </>
+      )}
+    </>
+  );
+};
+
+export default PartnerStoreSlider;

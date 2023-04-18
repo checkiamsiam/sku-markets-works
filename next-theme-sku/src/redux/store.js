@@ -1,0 +1,29 @@
+import { configureStore } from '@reduxjs/toolkit';
+import { useDispatch as useAppDispatch, useSelector as useAppSelector } from 'react-redux';
+import { persistReducer, persistStore } from 'redux-persist';
+import baseAPI from '../feature/baseAPI';
+import rootReducer, { rootPersistConfig } from './rootReducer';
+
+
+// ----------------------------------------------------------------------
+
+const store = configureStore({
+  reducer: persistReducer(rootPersistConfig, rootReducer),
+  middleware: (getDefaultMiddleware) =>
+    getDefaultMiddleware({
+      serializableCheck: false,
+      immutableCheck: false,
+    }).concat(baseAPI.middleware),
+
+  devTools: process.env.NODE_ENV !== 'production',
+});
+
+const persistor = persistStore(store);
+
+const { dispatch } = store;
+
+const useSelector = useAppSelector;
+
+const useDispatch = () => useAppDispatch();
+
+export { store, persistor, dispatch, useSelector, useDispatch };

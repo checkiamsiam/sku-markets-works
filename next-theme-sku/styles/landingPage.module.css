@@ -1,0 +1,50 @@
+.landingFirstSectionGif {
+	max-width: 100%;
+	height: 317px;
+}
+
+.landingFirstSectionTxt {
+}
+
+.Landingh1text {
+	font-size: 20px;
+}
+
+.jumpingPort {
+	text-decoration: none;
+	color: #0d6efd;
+	font-size: 13px;
+	display: flex;
+	gap: 7px;
+	align-items: center;
+	cursor: pointer;
+}
+
+.jumpingPort a {
+	text-decoration: none;
+	color: #0d6efd;
+}
+
+.disFontStyle {
+	font-weight: 700;
+}
+
+.landingSignUp {
+	background: #1562ff;
+	border-radius: 10px;
+	color: #fff;
+	border: none;
+	padding: 10px 30px 10px;
+	transition: ease-in-out 0.7s;
+	cursor: pointer;
+	/* font-size: 13px; */
+	font-weight: 600;
+	border: 1px solid #0d6efd;
+}
+
+.landingSignUp:hover {
+	box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 4px 0px inset;
+	transition: ease-in-out 0.7s;
+	background: transparent;
+	color: #0d6efd;
+}

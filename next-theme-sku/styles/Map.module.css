@@ -1,0 +1,9 @@
+.mapbg{
+    background-image: url("../assets/images/Map-01.png") ;
+    background-repeat: no-repeat ;
+    /* width: 100%; */
+    background-size: cover;
+    height: 431px;
+    background-position: bottom;
+    margin-top: 100px;
+}

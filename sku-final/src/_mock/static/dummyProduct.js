@@ -1,0 +1,35 @@
+export const dummyProduct = {
+    _id: '63d80b627075dddb9310c22a',
+    sellerId: '63ea1cad52e991873e20c2df',
+    title_ar: 'ﻲﺠﺴﻔﻨﺑ - ﻝﺎﻔﻃﻼﻟ ﺱﺍ ﻲﺑ ﻲﺟ ﻪﻴﺼﺧ ﺎﺑ ﻩﺩﻭﺰﻣ ﺯﺪﻴﻛ ﻲﺑﺎﻧ ﺔﻴﻛﺫ ﺔﻋﺎﺳ',
+    brand_ar: 'ﻲﺑﺎﻧ',
+    sku_type_ar: 'ﺀﺍﺪﺗﺭﻼﻟ ﺕﺍﺭﺍﻮﺴﺴﻛﺇ',
+    category_ar: 'ﺔﻴﺴﻴﺋﺮﻟﺍ',
+    sku_sub_type_ar: 'ﻝﺯﺎﻨﻤﻟﺍ ﺕﺍﺭﻮﻜﻳﺩ',
+    sku_sub_type_en: 'Smartwatches & Accessories',
+    sku_type_en: 'Wearables',
+    all_images: [
+      'https://storage.googleapis.com/sku_markets_noon/N31172715A-8590.jpg',
+      'https://storage.googleapis.com/sku_markets_noon/N31172715A-9198.jpg',
+    ],
+    brand_en: 'EZVIZ',
+    description_ar:
+      'ﺔﻴﺳﺎﺳﻷﺍ ﺕﺍﺰﻴﻤﻟﺍ\nMT6261 :ﺔﻳﺰﻛﺮﻤﻟﺍ ﺔﺠﻟﺎﻌﻤﻟﺍ ﺓﺪﺣﻭ ﺝﺫﻮﻤﻧ\nﻡﺇ ﺱﺇ ﻲﺟ :ﻝﺎﺼﺗﻻﺍ ﻡﺎﻈﻧ\nﺕﺎﺟﻮﻤﻟﺍ ﻲﻋﺎﺑﺭ ﺰﺗﺮﻫ ﺎﺠﻴﻣ 1900 / ﺰﺗﺮﻫ ﺎﺠﻴﻣ 1800 / ﺰﺗﺮﻫ ﺎﺠﻴﻣ 900 / ﺰﺗﺮﻫ ﺎﺠﻴﻣ 850 :ﺩﺩﺮﺘﻟﺍ ﻕﺎﻄﻧ\nﺲﻤﻠﻟﺎﺑ ﻞﻤﻌﺗ ﺔﻗﺪﻟﺍ ﺔﻴﻟﺎﻋ ﺔﻧﻮﻠﻣ IPS ﺔﺷﺎﺷ ؛ ﺔﺻﻮﺑ 1.44 :ﺔﺷﺎﺸﻟﺍ\n128 * 128 :ﺔﻗﺪﻟﺍ\nﻞﻀﻓﺃ ﺮﻤﻴﻟﻮﺑ ﻡﻮﻴﺜﻴﻟ ﺮﻴﺒﻣﺃ ﻲﻠﻠﻣbettery: 380\nﺖﻳﺎﺑ ﺎﺠﻴﻣ 32 :ﺔﻴﻠﺧﺍﺪﻟﺍ ﺓﺮﻛﺍﺬﻟﺍ\nﻒﺼﻟﺍ ﺀﺍﺬﻐﻟﺍ ﻥﻮﻜﻴﻠﻴﺳ ﺞﻨﻴﻧﺭﻮﻛ ﻭﺍﺩ :ﻂﻳﺮﺸﻟﺍ ﺓﺩﺎﻣ\nﻢﻣ 14.8 * ﻢﻣ 40.3 * ﻢﻣ 50.6 :ﺔﻋﺎﺴﻟﺍ ﻢﺠﺣ\nﻡﺍﺮﺟ 42 ﻥﺯﻮﻟﺍ ﺓﺪﻫﺎﺸﻣ\nﺔﻣﺎﻋ ﺓﺮﻈﻧ\nﻡﺍﺮﺟ 42 ﻥﺯﻮﻟﺍ ﺓﺪﻫﺎﺸﻣ ﻢﻣ 14.8 * ﻢﻣ 40.3 * ﻢﻣ 50.6 :ﺔﻋﺎﺴﻟﺍ ﻢﺠﺣ ﻒﺼﻟﺍ ﺀﺍﺬﻐﻟﺍ ﻥﻮﻜﻴﻠﻴﺳ ﺞﻨﻴﻧﺭﻮﻛ ﻭﺍﺩ :ﻂﻳﺮﺸﻟﺍ ﺓﺩﺎﻣ (ﺮﺗﻮﻴﺒﻤﻛ + ABS) ﻚﻴﺘﺳﻼﺑ :ﺀﺎﻄﻐﻟﺍ ﺓﺩﺎﻣ ﺖﻳﺎﺑ ﺎﺠﻴﻣ 32 :ﺔﻴﻠﺧﺍﺪﻟﺍ ﺓﺮﻛﺍﺬﻟﺍ ﻞﻀﻓﺃ ﺮﻤﻴﻟﻮﺑ ﻡﻮﻴﺜﻴﻟ ﺮﻴﺒﻣﺃ ﻲﻠﻠﻣbettery: 380 128 * 128 :ﺔﻗﺪﻟﺍ ﺲﻤﻠﻟﺎﺑ ﻞﻤﻌﺗ ﺔﻗﺪﻟﺍ ﺔﻴﻟﺎﻋ ﺔﻧﻮﻠﻣ IPS ﺔﺷﺎﺷ ؛ ﺔﺻﻮﺑ 1.44 :ﺔﺷﺎﺸﻟﺍ ﺕﺎﺟﻮﻤﻟﺍ ﻲﻋﺎﺑﺭ ﺰﺗﺮﻫ ﺎﺠﻴﻣ 1900 / ﺰﺗﺮﻫ ﺎﺠﻴﻣ 1800 / ﺰﺗﺮﻫ ﺎﺠﻴﻣ 900 / ﺰﺗﺮﻫ ﺎﺠﻴﻣ 850 :ﺩﺩﺮﺘﻟﺍ ﻕﺎﻄﻧ ﻡﺇ ﺱﺇ ﻲﺟ :ﻝﺎﺼﺗﻻﺍ ﻡﺎﻈﻧ MT6261 :ﺔﻳﺰﻛﺮﻤﻟﺍ ﺔﺠﻟﺎﻌﻤﻟﺍ ﺓﺪﺣﻭ ﺝﺫﻮﻤﻧ z7 :ﻞﻳﺩﻮﻤﻟﺍ\nﺕﺎﻔﺻﺍﻮﻤﻟﺍ\nﻦﻳﺮﻳﺎﺘﺳ ﻦﻳﺩﺎﺗﻮﺑ ﻞﻳﺮﺘﻧﻮﻠﻳﺮﻛﺃ ﺓﺩﺎﻤﻟﺍ\n(ﻞﻳﺪﻌﺘﻠﻟ ﻞﺑﺎﻗ ﻡﺍﺰﺣ) ﺪﺣﻮﻣ ﺱﺎﻴﻗ ﺭﺍﻮﺴﻟﺍ ﻢﺠﺣ\nZ7A ﻞﻳﺩﻮﻤﻟﺍ ﻢﻗﺭ\nZ7A ﻞﻳﺩﻮﻤﻟﺍ ﻢﺳﺍ',
+    description_en:
+      'Highlights\ncpu model : mt6261\ncommunication system : gsm\nfrequency band : 850mhz / 900mhz /1800mhz / 1900mhz quad band\nscreen : 1.44 inch ; IPS hd colored touch screen\nresolution : 128*128\nbettery : 400mah lithium polymer bettery\ninternal memory : 32mb\ncover material : plastic (abs+pc)\nwatch size : 50.6mm*40.3mm*14.8mm\nwatch weight 42g\nOverview\nmodel : z7 cpu model : mt6261 communication system : gsm frequency band : 850mhz / 900mhz /1800mhz / 1900mhz quad band screen : 1.44 inch ; IPS hd colored touch screen resolution : 128*128 bettery : 400mah lithium polymer bettery internal memory : 32mb cover material : plastic (abs+pc) strap material : dow corning food grade silicone watch size : 50.6mm*40.3mm*14.8mm watch weight 42g\nSpecifications\nMaterial ABS\nColour Name Purple\nBand Size One Size (Adjustable Band)\nModel Number Z7A\nModel Name Z7A',
+    buy_box_currency: 'SAR',
+    category_en: 'Electronics & Mobiles',
+    estimated_SOH: 0,
+    price_change: 0,
+    sku: 'N31172715A',
+    sku_marketplace: 'noon/egypt',
+    sku_rank: 0,
+    sku_rate: 0,
+    sold_24_hours: 0,
+    stores: [],
+    title_en: 'Wi-Fi Camera',
+    tags: [],
+    updatedAt: '2023-03-13T03:50:37.717Z',
+    _id: '63d80bef7075dddb93112a09',
+  };
+  

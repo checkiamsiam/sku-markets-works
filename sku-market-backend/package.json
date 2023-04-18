@@ -1,0 +1,37 @@
+{
+    "name": "sku-markets-backend",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js",
+        "winstart": "set NODE_ENV=production&& node server.js",
+        "dev": "set NODE_ENV=development&&nodemon server.js",
+        "local": "set DATABASE_URL=mongodb://localhost:27017&&set NODE_ENV=development&&nodemon server.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@google-cloud/storage": "^6.9.3",
+        "axios": "^1.2.2",
+        "bcrypt": "^5.1.0",
+        "cors": "^2.8.5",
+        "dotenv": "^16.0.3",
+        "express": "^4.18.2",
+        "express-device": "^0.4.2",
+        "express-mongo-sanitize": "^2.2.0",
+        "express-rate-limit": "^6.6.0",
+        "helmet": "^6.0.0",
+        "hpp": "^0.2.3",
+        "joi": "^17.7.0",
+        "jsonwebtoken": "^8.5.1",
+        "mongodb": "^4.12.0",
+        "mongoose": "^6.7.1",
+        "morgan": "^1.10.0",
+        "multer": "^1.4.5-lts.1",
+        "nodemailer": "^6.8.0",
+        "socket.io": "^4.5.3",
+        "xss-clean": "^0.1.1"
+    }
+}

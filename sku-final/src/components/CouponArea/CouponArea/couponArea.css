@@ -1,0 +1,18 @@
+.coupon-container-lite {
+  height: 500px;
+  width: 100%;
+  background-image: url('../../../assets/images/coupon_bg_c.png');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center;
+  padding: 40px 40px 40px 120px;
+}
+.coupon-container-dark {
+  min-height: 500px;
+  width: 100%;
+  background-image: url('../../../assets/images/coupon_bg_c.png');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center;
+  padding: 40px 40px 40px 120px;
+}

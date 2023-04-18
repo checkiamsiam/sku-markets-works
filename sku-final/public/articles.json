@@ -1,0 +1,148 @@
+[
+  {
+    "id": 1,
+    "title": "Terms and Conditions",
+    "link": "/",
+    "icon": "mdi:script-text-key-outline",
+    "questions": [
+      "What is SKU Markets Policies?",
+      "The store name & products general information?"
+    ],
+    "qty": 2
+  },
+  {
+    "id": 2,
+    "title": "Managing Your Account",
+    "link": "/",
+    "icon": "material-symbols:settings-account-box-outline",
+    "questions": ["How I Sign In?", "How to set my account Settings to use SKU Markets?"],
+    "qty": 2
+  },
+  {
+    "id": 3,
+    "title": "Top Ranked SKUs Management",
+    "link": "/",
+    "icon": "eos-icons:content-lifecycle-management",
+    "questions": ["What is Marketplaces page for?", "What is Watchlists page for?","What is Alerts page for?"],
+    "qty": 3
+  },
+  {
+    "id": 4,
+    "title": "Portfolio Management",
+    "link": "/",
+    "icon": "carbon:id-management",
+    "qty": 6
+  },
+  {
+    "id": 5,
+    "title": "Selling on SKU Markets",
+    "link": "/",
+    "icon": "ep:sell",
+    "qty": 4
+  },
+  {
+    "id": 6,
+    "title": "Request New stock",
+    "link": "/",
+    "icon": "healthicons:rdt-result-out-stock-outline",
+    "qty": 5
+  },
+  {
+    "id": 7,
+    "title": "Sellerboard",
+    "link": "/",
+    "icon": "carbon:dashboard-reference",
+    "qty": 7
+  },
+  {
+    "id": 8,
+    "title": "Manage your orders",
+    "link": "/",
+    "icon": "carbon:dashboard-reference",
+    "qty": 5
+  },
+  {
+    "id": 9,
+    "title": "Payments",
+    "link": "/",
+    "icon": "carbon:dashboard-reference",
+    "qty": 8
+  },
+  {
+    "id": 10,
+    "title": "Shipments",
+    "link": "/",
+    "icon": "carbon:dashboard-reference",
+    "qty": 10
+  },
+  {
+    "id": 11,
+    "title": "Return & Refund",
+    "link": "/",
+    "icon": "carbon:dashboard-reference",
+    "qty": 3
+  },
+  {
+    "id": 12,
+    "title": "Problem with the Product",
+    "link": "/",
+    "icon": "carbon:dashboard-reference",
+    "qty": 4
+  },
+  {
+    "id": 13,
+    "title": "Guarantees and Assurances",
+    "link": "/",
+    "icon": "carbon:dashboard-reference",
+    "qty": 5
+  },
+  {
+    "id": 14,
+    "title": "Sales Channels Management",
+    "link": "/",
+    "icon": "carbon:dashboard-reference",
+    "qty": 8
+  },
+  {
+    "id": 15,
+    "title": "Financials",
+    "link": "/",
+    "icon": "carbon:dashboard-reference",
+    "qty": 5
+  },
+  {
+    "id": 16,
+    "title": "VAT FAQs",
+    "link": "/",
+    "icon": "carbon:dashboard-reference",
+    "qty": 3
+  },
+  {
+    "id": 17,
+    "title": "Advertising and Marketing Solutions",
+    "link": "/",
+    "icon": "carbon:dashboard-reference",
+    "qty": 5
+  },
+  {
+    "id": 18,
+    "title": "Export & Reporting",
+    "link": "/",
+    "icon": "carbon:dashboard-reference",
+    "qty": 11
+  },
+  {
+    "id": 19,
+    "title": "Import",
+    "link": "/",
+    "icon": "carbon:dashboard-reference",
+    "qty": 3
+  },
+  {
+    "id": 20,
+    "title": "Chat",
+    "link": "/",
+    "icon": "carbon:dashboard-reference",
+    "qty": 4
+  }
+]
